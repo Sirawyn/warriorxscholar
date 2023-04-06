@@ -1,0 +1,45 @@
+body {
+  background-color: #212121;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: 'Cinzel', serif;
+  font-size: 48px;
+  font-weight: normal;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+  text-shadow: 1px 1px #000;
+}
+
+#hero-section {
+  background-image: url('https://github.com/Sirawyn/warriorxscholar/blob/a40a75eac2d74a98c229ac3f060119b0b2817f94/nimrodoffering_13.png?raw=true');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.section h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  text-shadow: 1px 1px #000;
+}
+
+/* add your additional styles here */
